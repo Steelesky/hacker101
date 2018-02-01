@@ -19,3 +19,5 @@ social:
 logo: /assets/images/h101_angle.png
 plugins:
   - jekyll-seo-tag
+
+theme: jekyll-theme-midnight
